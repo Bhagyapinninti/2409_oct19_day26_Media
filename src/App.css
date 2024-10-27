@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+}
+body{
+  background-color: mediumpurple;
+  border: 10px groove darkmagenta;
+}
+img{
+  width: 300px;
+  height: 300px;
+  border: 5px groove darkslateblue;
+  border-radius: 20%;
+  margin: 10px;
+}
+video{
+  width: 300px;
+  height: 300px;
+  border: 5px groove darkslateblue;
+  margin: 10px;
+}
+
+audio{
+  margin: 10px;
+  border: 5px groove darkslateblue;
+  border-radius: 40%;
+}
